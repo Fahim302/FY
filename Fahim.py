@@ -1,4 +1,4 @@
-# Decompiled By Sohail Wazir
+# Decompiled By Fahim wazir
 
 # Github : github.com/Fahim302
 
@@ -128,9 +128,7 @@ logo = """
 
     \x1b[1;93m |  __| | |      | |    | |  |  __|  SOHAIL
 
-    \x1b[1;94m | |____| |____ _| |_   | |  | |____ 
-
-    \x1b[1;95m |______|______|_____|  |_|  |______|                                     
+    \x1b[1;94m                                    
 
                                                                                                                                                                       
 
@@ -142,7 +140,7 @@ logo = """
 
 \x1b[1;94m\033[1;96mGitHub  :  github.com/Fahim302
 
-\x1b[1;95m\033[1;96mVersion  :              1.0.2
+\x1b[1;95m\033[1;96mVersion  :              1.0.4
 
 \x1b[1;90m__________________________________________________
 
